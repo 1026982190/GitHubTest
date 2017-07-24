@@ -6,4 +6,5 @@ This is line five.
 t
 21
 My stupid boss still prefer SVN.
-My Ë¾Í½Æ¤´øt2
+Creating a new branch is quick.
+
