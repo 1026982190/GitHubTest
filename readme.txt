@@ -8,5 +8,5 @@ t
 My stupid boss still prefer SVN.
 Creating a new branch is quick and simple.
 ********
-
+--------
 错误修复了。
